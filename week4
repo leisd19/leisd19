@@ -1,0 +1,104 @@
+
+
+<html>
+
+<head>
+<title> Week "3D Scanning and Printing"</title>
+
+<style>
+h1 {font-family:verdana; font-size:200%;text-align:center;}
+h2 {font-family:verdana; font-size:150%;text-align:center;}
+h3 {font-family:verdana; font-size:125%;}
+p {font-family:verdana;font-size:100%;}
+li {font-family:verdana;font-size:100%}
+a {font-family:verdana;font-size:}100%;}
+body {
+background-image:url('computer-parts-olivier-le-queinec.jpg');
+background-repeat:no-repeat;
+background-position:left top;
+width="1280"; height="960";
+background-color:green;
+}
+</style>
+</head>
+
+<body>
+	
+<h1> Danny Leis | WRA Digital Fab 2019</h1>
+<h2>Computer-Aided Design</h1>
+<p>
+<hr style="width:50%">
+</p>
+<H3> Week "3D Scanning and Printing" | Computer-aided Design Assignment</h3>
+<p> 
+1. What are the design rules and limitations for the MakerBot Replicator 5th Gen printers. What type of 3D printing process does the MakerBot Replicator use? What are the advantages to this type of printer versus the FormLabs printer?
+
+2. Combine two 3D print files using Meshmixer. You will need to scan your face and attach it to a pedastal base. The overall print should not be more than 4 inches tall. Print out the final file and make sure you document the process. Include all files and the final file. For help on Meshmixer use these videos .
+
+3. Design and print small 3D object that could not be made subtractively.
+
+4.With a partner or alone, create something useful using additive manufacturing. You will need to 3D print your useful object and the file must be your own creation. Some examples of useful objects can be found Useful 3D printed objects and here .
+
+
+</p> 
+
+<hr style="width:50%">
+</p>
+
+<H3>Products made</h3>
+<p>
+Using a tablet scanner and the program "Meshmixer", I printed a ring with my initials and th design of my own face.
+</p>
+<div id="container">
+	<img src="sample.png">
+	<img src="sample.png">
+	<img src="sample.png"> 
+    <img src="sample.gif">   
+</div>
+
+<p>
+<i> Type Something About The Pictures (Images 1 and 2)  |   Type Something About The Pictures (Images 3 and 4) </i>
+</p>
+<br>
+ <p>
+<hr style="width:50%">
+</p>
+<H3>Next Section</h3>
+<p>
+
+</p>
+<p>
+<img src="bp1.png"/>
+</p>
+<p>
+<i> Add</i>
+</p>
+<br>
+
+<div id="container">
+<img src="sample.png"> 
+<img src="sample.png"> 
+    <img src="sample.png"> 
+	<img src="sample.png">	
+</div>
+
+
+
+<p>
+<hr style="width:50%">
+</p>
+<H3>FILES</h3>
+<ul>
+<li><a href="sample.dwg">Drawing From Fusion360 .dwg format.</a>
+</li>
+<li><a href="sample.skb">Sketchup Make file in .skb format.</a>
+</ul>
+
+<p>
+<hr style="width:80%">
+</p>
+
+<a href="index.html">Back to index</a>
+
+</body>
+</html>
